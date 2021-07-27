@@ -11,3 +11,6 @@ Sample website with plenty of files for demos
 ## Deployment
 
 ## How to deploy
+
+### Copyright
+ Copyright text
